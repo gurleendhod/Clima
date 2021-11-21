@@ -14,7 +14,7 @@ An application which provides the current temperature of the location entered by
 
 <br>
 
-2. Clicking on the icon first the application loads and the main screen appears.
+2. Clicking on the icon first the application loads and then main screen with the users' current location and its temperature appears.
 
 <img src="images/Loading.jpeg" height="350px">        <img src="images/Front.jpeg" height="350px"> 
 
